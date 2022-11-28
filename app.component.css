@@ -1,0 +1,23 @@
+button.betbtn {
+    padding:0.6em 2em;
+    border-radius: 50%;
+    color:#fff;
+    background-color:#1976d2;
+    font-size:1.1em;
+    border:0;
+    cursor:pointer;
+    margin:1em;
+  }
+
+  button.closebtn {
+    padding:0.6em 2em;
+    border-radius: 40%;
+    color:#fff;
+    background-color:#b71a14;
+    font-size:1.1em;
+    border:0;
+    cursor:pointer;
+    margin:1em;
+  }
+
+  
